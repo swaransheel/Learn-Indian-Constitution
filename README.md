@@ -1,3 +1,5 @@
+Live application: https://constitutionofinida.netlify.app/
+
 Learn Indian Constitution
 Overview
 Learn Indian Constitution is a React-based web application designed to provide detailed explanations of various articles from the Indian Constitution. The application uses the Google Generative Language Model API to fetch and display in-depth information, including key provisions, historical context, and significant impacts of each article.
